@@ -1,0 +1,5 @@
+Name: log.c
+Description: logging system
+Version: 0.1.0
+Cflags: -I${pcfiledir}/src
+Libs: -L${pcfiledir}/bin -llog.c
